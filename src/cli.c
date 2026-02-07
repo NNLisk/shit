@@ -15,3 +15,7 @@ int command_line_dispatch(int argc, char **argv) {
 
   return 0;
 }
+
+int process_path(char *path) {
+  
+}
